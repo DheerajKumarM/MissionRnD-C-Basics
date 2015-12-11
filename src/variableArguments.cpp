@@ -1,7 +1,5 @@
 #include <stdarg.h>
-
-/*
-OVERVIEW: 	A school has unknown number of students. Write a function that takes a variable number of arguments representing student marks in english
+/*OVERVIEW: 	A school has unknown number of students. Write a function that takes a variable number of arguments representing student marks in english
 and returns the number of students who scored > 90 marks.
 E.g.: variableArguments(3, 20, 90, 98) returns 1. One value (98) is greater than 90.
 
